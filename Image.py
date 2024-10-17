@@ -14,6 +14,6 @@ class Image:
 
 
 image0 = Image(140, 140, 'flover', 'png')
-image1 = Image(360, 360, 'wall', 'jpg')
+image1 = Image(360, 360, 'stone', 'jpg')
 
 image0.resize(360, 360)
